@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Zhang"
+title                    : "Xin Xing"
 title_separator          : "-"
-name                     : &name "Yu Zhang"
-description              : &description "PhD student at the University of Kentucky"
+name                     : &name "Xin Xing"
+description              : &description "PhD candidate at the University of Kentucky"
 url                      : https://yuzhang03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuzhang03.github.io"
+repository               : "xxing.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu Zhang"
+  name             : "Xin Xing"
   avatar           : "me.png"
   bio1             : "Ph.D. Candidate"
   bio2             : "Computer Science"
   bio3             : "University of Kentucky"
-  location         : "Lexington, Kentucky"
+  location         : "Columbia, MO"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9OegmjMAAAAJ&hl=en&authuser=1"
-  email            : "y.zhang@uky.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=dA-i7zQAAAAJ&hl=en"
+  email            : "xin.xing@uky.edu"
   researchgate     : #"https://www.researchgate.net/profile/Hanzi_Mao"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yu-zhang-a2421111a"
+  linkedin         : "xin-xing-93111493"
   orcid            : 
   pinterest        :
   soundcloud       :
