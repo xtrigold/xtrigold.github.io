@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: xtrigold/xxing.github.io/CV.pdf
+    url: /CV.pdf
     
   # - title: "Publications"
   #   url: /calibration.html/
