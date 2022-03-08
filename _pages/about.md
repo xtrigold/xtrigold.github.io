@@ -17,18 +17,19 @@ I love my wife, my baby girl, and my cat.
 
 Recent News
 ======
-* 01/2022: [One paper] got accepted to ISBI 2022!
+* 01/2022: One paper got accepted to ISBI 2022!
 * 12/2021: Succesfully defended my PhD proposal!
 * 12/2021: One paper got accepted to Journal of Cellular Immunology
 * 09/2021: One paper got accepted to IEEE Journal of Biomedical and Health Informatics.
 * 07/2021: Two paper got accepted to EMBC 2021.
-* 07/2022: Four Scientific Abstracts got accepted to Alzheimer's Association International Conference.
+* 07/2022: Four Abstracts got accepted to Alzheimer's Association International Conference.
 * 07/2020: One paper got accepted to a ECCV workshop.
 * 07/2020: One paper got accepted to Nature Communications biology.
 * 10/2019: Two papers got accepted to BIBM 2019.
 * 07/2019: One paper got accepted to IEEE Transactions on Vehicular Technology.
-* 10/2018: [Best paper award](https://www.ieeelcn.org/Program_awards.html) of LCN2018.
+* 10/2018: [Best paper award](https://www.ieeelcn.org/Program_awards.html) of LCN 2018.
 * 10/2018: One paper got accepted to Local Computer Networks (LCN).
+* 05/2018: One paper got accepted to ICC.
 
 
 <!-- * 12/2019: Gave an oral presentation at IEEE BigData LiDAR Workshop 2019, Los Angeles, California.
