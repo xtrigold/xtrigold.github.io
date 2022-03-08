@@ -22,6 +22,7 @@ Recent News
 * 12/2021: One paper got accepted to Journal of Cellular Immunology
 * 09/2021: One paper got accepted to IEEE Journal of Biomedical and Health Informatics.
 * 07/2021: Two paper got accepted to EMBC 2021.
+* 08/2022: Gave an oral presentation at ECCV 2020 BIC Workshop. 
 * 07/2022: Four Abstracts got accepted to Alzheimer's Association International Conference.
 * 07/2020: One paper got accepted to a ECCV workshop.
 * 07/2020: One paper got accepted to Nature Communications biology.
