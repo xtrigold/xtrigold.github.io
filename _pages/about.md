@@ -8,26 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in [Computer Science](https://www.engr.uky.edu/research-faculty/departments/computer-science/) at the [University of Kentucky](https://www.uky.edu/), working under the supervision of [Dr. Nathan Jacobs](http://cs.uky.edu/~jacobs/). My research focuses on deep learning and computer vision, specifically on domain adaptation and multi-modal data modeling.
+I am a Ph.D. candidate in [Computer Science](https://www.engr.uky.edu/research-faculty/departments/computer-science/) at the [University of Kentucky](https://www.uky.edu/). I am a member of [Multimodal Vision Research Laboratory (MVRL)](http://mvrl.cs.uky.edu/) supervised by [Dr. Nathan Jacobs](http://cs.uky.edu/~jacobs/) and a member of [Lin Brain Lab](https://linbrain.com/) supervised by [Dr. Ai-Ling Lin](https://linbrain.com/about/). My research focuses on machine learning, deep learning, and computer vision, specifically multi-modality learning and medical image analysis.
 
-I obtained my Bachelor's degree from [Northeastern University](http://english.neu.edu.cn/), China in June 2017.
+I obtained my Bachelor degree from [Shandong University](https://www.en.sdu.edu.cn/), China in June 2011 and Master degree from [Stuttgart University](https://www.uni-stuttgart.de/), Germany in May 2016. In 2008-2009, I attended [Xi'An Jiaotong University](https://edu.liuhua.org.my/en/university/china/xian-jiaotong-university) as exchange student.
 
-I enjoy hiking and music.
+I love my wife, my baby girl, and our cat.
 
 
 Recent News
 ======
-* 10/2021: [One paper](https://yuzhang03.github.io/dfa-ssda/) got accepted to BMVC 2021!
+* 01/2022: [One paper] got accepted to ISBI 2022!
+* 12/2021: Succesfully defended my PhD proposal!
+* 12/2021: One paper got accepted to Journal of Cellular Immunology
 * 09/2021: One paper got accepted to IEEE Journal of Biomedical and Health Informatics.
-* 04/2021: One paper got accepted to CVPR NTIRE Workshop.
-* 12/2020: Succesfully defended my PhD proposal!
-* 10/2020: One paper got accepted to a NeurIPS workshop.
-* 10/2020: [One paper](https://yuzhang03.github.io/icpr2020/galaxy.html) got accepted to ICPR 2020.
-* 08/2020: One paper got accepted to MNRAS.
-* 07/2020: One paper got accepted to BMVC 2020.
-* 06/2020: One paper got accepted to ICML UDL workshop 2020.
-* 04/2020: One paper got accepted to EMBC 2020.
-* 02/2020: One paper got accepted to Journal of the American College of Radiology.
+* 07/2021: Two paper got accepted to EMBC 2021.
+* 07/2022: Four Scientific Abstracts got accepted to Alzheimer's Association International Conference.
+* 07/2020: One paper got accepted to a ECCV workshop.
+* 07/2020: One paper got accepted to Nature Communications biology.
+* 10/2019: Two papers got accepted to BIBM 2019.
+* 07/2019: One paper got accepted to IEEE Transactions on Vehicular Technology.
+* 10/2018: [Best paper award](https://www.ieeelcn.org/Program_awards.html) of LCN2018.
+* 10/2018: One paper got accepted to Local Computer Networks (LCN).
+
 
 <!-- * 12/2019: Gave an oral presentation at IEEE BigData LiDAR Workshop 2019, Los Angeles, California.
 * 11/2019: One paper got accepted to the LiDAR workshop at IEEE BigData 2019.
