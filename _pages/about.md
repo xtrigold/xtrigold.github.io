@@ -18,9 +18,10 @@ I love my wife, my baby girl, and my cat.
 Recent News
 ======
 * 03/2022: Online presentation at ISBI 2022.
+* 03/2022: One paper got accepted to Journal of Cellular Immunology.
 * 01/2022: One paper got accepted to ISBI 2022.
 * 12/2021: Succesfully defended my PhD proposal!
-* 12/2021: One paper got accepted to Journal of Cellular Immunology
+* 12/2021: One paper got accepted to Journal of Cellular Immunology.
 * 09/2021: One paper got accepted to IEEE Journal of Biomedical and Health Informatics.
 * 07/2021: Two papers got accepted to EMBC 2021.
 * 08/2022: Gave an oral presentation at ECCV 2020 BIC Workshop. 
