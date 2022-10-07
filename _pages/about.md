@@ -17,6 +17,7 @@ I love my wife, my baby girl, and my cat.
 
 Recent News
 ======
+* 10/2022: One paper got accepted to Journal of Frontiers in Rehabilitation Sciences.
 * 09/2022: One paper got accepted to BMVC 2022.
 * 09/2022: One paper got accepted to Knowledge-Based Systems.
 * 05/2022: One paper got accepted to ICPR 2022.
