@@ -19,6 +19,7 @@ Recent News
 ======
 * 09/2022: One paper got accepted to BMVC 2022.
 * 09/2022: One paper got accepted to Knowledge-Based Systems.
+* 05/2022: One paper got accepted to ICPR 2022.
 * 03/2022: Online presentation at ISBI 2022.
 * 03/2022: One paper got accepted to Journal of Cellular Immunology.
 * 01/2022: One paper got accepted to ISBI 2022.
