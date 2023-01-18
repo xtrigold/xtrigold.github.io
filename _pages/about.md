@@ -17,6 +17,7 @@ I love my wife, my baby girl, and my cats (we have two cats: Miaomiao and Maisy)
 
 Recent News
 ======
+* 01/2023: One paper got accepted to Journal of Electronics.
 * 11/2022: One paper got accepted to Journal of Frontiers in Microbiomes.
 * 10/2022: One paper got accepted to Journal of Frontiers in Rehabilitation Sciences.
 * 09/2022: One paper got accepted to BMVC 2022.
