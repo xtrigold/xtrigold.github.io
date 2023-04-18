@@ -32,7 +32,7 @@ Recent News
 * 07/2021: Two papers got accepted to EMBC 2021.
 * 08/2020: Gave an oral presentation at ECCV 2020 BIC Workshop. 
 * 07/2020: Four Abstracts got accepted to Alzheimer's Association International Conference.
-* 07/2020: One paper got accepted to a ECCV workshop.
+* 07/2020: One paper got accepted to a ECCV 2020 workshop.
 * 07/2020: One paper got accepted to Nature Communications biology.
 * 10/2019: Two papers got accepted to BIBM 2019.
 * 07/2019: One paper got accepted to IEEE Transactions on Vehicular Technology.
