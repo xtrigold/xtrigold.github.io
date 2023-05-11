@@ -19,6 +19,7 @@ Recent News
 ======
 * 01/2023: One paper got accepted to Journal of Electronics.
 * 11/2022: One paper got accepted to Journal of Frontiers in Microbiomes.
+* 11/2022: Online Presentation at BMVC 2022.
 * 10/2022: One paper got accepted to Journal of Frontiers in Rehabilitation Sciences.
 * 09/2022: One paper got accepted to BMVC 2022.
 * 09/2022: One paper got accepted to Journal of Knowledge-Based Systems.
