@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in [Computer Science](https://www.engr.uky.edu/research-faculty/departments/computer-science/) at the [University of Kentucky](https://www.uky.edu/). I am a member of [Multimodal Vision Research Laboratory (MVRL)](http://mvrl.cs.uky.edu/) supervised by [Dr. Nathan Jacobs](https://jacobsn.github.io/) and a member of [Lin Brain Lab](https://linbrain.com/) supervised by [Dr. Ai-Ling Lin](https://linbrain.com/about/). My research focuses on machine learning, deep learning, and computer vision, specifically image category, multimodal learning, and medical image analysis.
 
-I obtained my Bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/), China, and my Master's degree from [Universität Stuttgart](https://www.uni-stuttgart.de/), Germany. I attended [Xi'an Jiaotong University](https://edu.liuhua.org.my/en/university/china/xian-jiaotong-university) as an exchange student.
+I obtained my Bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/), China, and my Master's degree from [Universität Stuttgart](https://www.uni-stuttgart.de/), Germany. During my undergraduate study, I attended [Xi'an Jiaotong University](https://edu.liuhua.org.my/en/university/china/xian-jiaotong-university) as an exchange student for one year.
 
 I love my wife, my baby girl, and my cats (we have two cats: Miaomiao and Maisy).
 
