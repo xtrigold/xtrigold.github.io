@@ -17,6 +17,8 @@ I love my wife, my baby girl, and my cats (we have two cats: Miaomiao and Maisy)
 
 Recent News
 ======
+* 07/2023: One paper got accepted to Journal of Cluster Computing.
+* 07/2023: One paper got accepted to Journal of Bioengineering.
 * 01/2023: One paper got accepted to Journal of Electronics.
 * 11/2022: One paper got accepted to Journal of Frontiers in Microbiomes.
 * 11/2022: Online Presentation at BMVC 2022.
