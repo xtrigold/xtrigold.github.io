@@ -17,14 +17,16 @@ I love my wife, my baby girl, and my cats (we have two cats: Miaomiao and Maisy)
 
 Recent News
 ======
-* 07/2023: One paper got accepted to Journal of Cluster Computing.
-* 07/2023: One paper got accepted to Journal of Bioengineering.
-* 01/2023: One paper got accepted to Journal of Electronics.
-* 11/2022: One paper got accepted to Journal of Frontiers in Microbiomes.
+* 09/2023: One paper got accepted to Scientific Reports.
+* 09/2023: One paper got accepted to Frontiers in Aging Neuroscience.
+* 08/2023: One paper got accepted to Cluster Computing.
+* 07/2023: One paper got accepted to Bioengineering.
+* 01/2023: One paper got accepted to Electronics.
+* 11/2022: One paper got accepted to Frontiers in Microbiomes.
 * 11/2022: Online Presentation at BMVC 2022.
-* 10/2022: One paper got accepted to Journal of Frontiers in Rehabilitation Sciences.
+* 10/2022: One paper got accepted to Frontiers in Rehabilitation Sciences.
 * 09/2022: One paper got accepted to BMVC 2022.
-* 09/2022: One paper got accepted to Journal of Knowledge-Based Systems.
+* 09/2022: One paper got accepted to Knowledge-Based Systems.
 * 05/2022: One paper got accepted to ICPR 2022.
 * 03/2022: Online presentation at ISBI 2022.
 * 03/2022: One paper got accepted to Journal of Cellular Immunology.
