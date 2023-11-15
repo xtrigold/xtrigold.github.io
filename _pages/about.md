@@ -17,6 +17,7 @@ I love my wife, my baby girl, and my cats (we have two cats: Miaomiao and Maisy)
 
 Recent News
 ======
+* 11/14/2023: I successfully defended my dissertation and got my title! :)
 * 11/2023: One paper got accepted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 * 09/2023: One paper got accepted to Scientific Reports.
 * 09/2023: One paper got accepted to Frontiers in Aging Neuroscience.
