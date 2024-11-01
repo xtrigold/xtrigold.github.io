@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I got my PhD in [Computer Science](https://www.engr.uky.edu/research-faculty/departments/computer-science/) at the University of Kentucky supervised by [Dr. Nathan Jacobs](https://engineering.washu.edu/faculty/Nathan-Jacobs.html) and [Dr. Ai-Ling Lin](https://biology.missouri.edu/people/lin). My research focuses on computer vision, deep learning, and machine learning, specifically image category, multimodal learning, and medical image analysis.
+I am an assistant professor of Computer Science at University of Nebraska Omaha. I got my PhD in [Computer Science](https://www.engr.uky.edu/research-faculty/departments/computer-science/) at the University of Kentucky supervised by [Dr. Nathan Jacobs](https://engineering.washu.edu/faculty/Nathan-Jacobs.html) and [Dr. Ai-Ling Lin](https://biology.missouri.edu/people/lin). My research focuses on computer vision, deep learning, and machine learning, specifically image category, multimodal learning, and medical image analysis.
 
 I obtained my Bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/), China, and my Master's degree from [Universität Stuttgart](https://www.uni-stuttgart.de/), Germany. During my undergraduate study, I attended [Xi'an Jiaotong University](https://edu.liuhua.org.my/en/university/china/xian-jiaotong-university) as an exchange student for one year.
 
